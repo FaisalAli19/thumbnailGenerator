@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+/* .react-thumbnail-generator {
+  width: 200px !important;
+  height: 200px !important;
+}
+
+.react-thumbnail-generator > img {
+  width: 200px !important;
+  height: 200px !important;
+} */
